@@ -1,0 +1,11 @@
+package java.util;
+
+public class HashMap@A<K@X, V@Y> {
+    public HashMap(){}
+    public HashMap(int@A initialCapacity){}
+
+    public V@A get(Object@A key){}
+    public void put(K@A key, V@A value){}
+
+    public V@A remove(Object@A key){}
+}
